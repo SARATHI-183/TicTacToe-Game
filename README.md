@@ -2,6 +2,9 @@
 
 Live link [here](https://tic-tac-toe-game-188a70.netlify.app/)
 
+![Screenshot 2024-08-31 230259](https://github.com/user-attachments/assets/a7bb2c43-0d7e-44c8-93ef-f42f286b128c)
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
